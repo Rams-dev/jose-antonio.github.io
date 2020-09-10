@@ -4805,7 +4805,8 @@ footer ul.social_icons {
 	display: flex;
 	position: fixed;
 	right: 1% ;
-	top: 20%;
+	top: 2px;
+	z-index: 2;
 
 }
 
