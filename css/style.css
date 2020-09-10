@@ -4800,3 +4800,17 @@ footer ul.social_icons {
 	margin-top: 35px;
 }
 
+.whatsapp{
+	background: none;
+	display: flex;
+	position: fixed;
+	right: 1% ;
+	top: 20%;
+
+}
+
+.whatsapp > a>img{
+	width: 70px;
+	height: 70px;
+}
+
